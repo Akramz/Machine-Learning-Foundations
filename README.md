@@ -1,2 +1,2 @@
-# ML-Universe
-Educational Notebooks on machine learning, covering the mathematical foundations and from scratch implementations ..
+# ML-Math
+Educational Notebooks on machine learning, covering the mathematical foundations supported with numpy/matplotlib based examples/visualisations ..
